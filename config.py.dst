@@ -1,0 +1,14 @@
+config = {
+    'CONSTR': ''',
+    'DB_KEY': '',
+    'API_KEYS': ['', ''],
+    'WUFOO_BASE_URL':  '',
+    'USERNAME': '',
+    'PASSWORD': '',
+    'TOKEN': '',
+    'FORMS': [
+        ['', ''],
+        ['', '']
+    ],
+    'TABLE_NAME': ''
+}
